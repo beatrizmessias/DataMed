@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "nome": "Maria Júlia Dalvi",
-      "email": "majudalvitorres@gmail.com",
+      "nome": "Administrador",
+      "email": "admin@sistema.com",
       "senha": "Admin@123",
       "perfil": "Administrador"
     }
